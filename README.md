@@ -1,6 +1,7 @@
 # boutique
 
 A new Flutter project.
+Example of a botique shop app.
 
 ## Getting Started
 
